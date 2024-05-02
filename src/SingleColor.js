@@ -28,3 +28,11 @@
 // };
 
 // export default SingleColor;
+
+import React from 'react';
+
+const SingleColor = ({ rgb, weight, index, hexColor }) => {
+  return <div>SingleColor</div>;
+};
+
+export default SingleColor;
